@@ -5,7 +5,7 @@
 [![All Releases Download](https://img.shields.io/github/downloads/cugxuan/gonelist/total.svg)](../../releases)
 
 
-<img align="right" width="150" src="https://github.com/cugxuan/gonelist/wiki/img/logo/logo.png">
+<img align="right" width="200px" src="https://github.com/cugxuan/gonelist/wiki/img/logo/logo.png">
 
 
 这是一款使用 `golang + vue` 编写的基于 onedrive 的**在线共享网盘**  
